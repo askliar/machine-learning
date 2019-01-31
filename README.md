@@ -94,3 +94,11 @@ jupyter notebook #notebook#.ipynb
 - Matplotlib
 - Scipy
 - IPython Notebook
+
+## Copyright
+
+Copyright © 2017-2018 Andrii Skliar.
+
+<p align="justify">
+This project is distributed under the <a href="LICENSE">MIT license</a>. This was developed as part of the courses Machine Learning 1 and Machine Learning 2 taught by Rianne van den Berg, Max Welling, Patrick Forré and Joris Mooij at the University of Amsterdam. Please follow the <a href="http://student.uva.nl/en/content/az/plagiarism-and-fraud/plagiarism-and-fraud.html">UvA regulations governing Fraud and Plagiarism</a> in case you are a student.
+</p>

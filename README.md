@@ -23,26 +23,26 @@ Homeworks and labs of the [Machine Learning 1](http://coursecatalogue.uva.nl/xml
 
 Polynomial Regression             |  Bayesian Regression
 :-------------------------:|:-------------------------:
-<img src="https://cdn.pbrd.co/images/HW7PYLv.png" width="400" height="250" />  |  <img src="https://cdn.pbrd.co/images/HW7QqBI.png" width="400" height="150"/>
+<img src="https://lh3.googleusercontent.com/MMbnv_93WI9TsR3x3zkHli6MJeUJeJvxRZpliYdCOs93ds7LIc6389TNvEsjPVz9igWUAXxgY-15GshegMwQ4QlVOP0B8IODXBwOK8AyFoOzszZj337EMbNrAmfiJMFTCt46mc_7Ol0=w2400" width="400" height="250" />  |  <img src="https://lh3.googleusercontent.com/8UtZgKpOoKkXQP4iOsjL3CQoCQZi4MTy7mksMNri2-t8NqU93GiaGjmxXEqncI8Epmks7bN4xcnVBbR_DSdGvzHylzXpsuUuVuWQPm9iIxLT8xyDPN_xKUIuyEjR1e_x9CaSWRFJPXc=w2400" width="400" height="150"/>
 
 #### Multi-Class Logistic Regression and Multilayer Perceptrons
 [Problem statement and Solution](part1/labs/11636785_11640758_lab2.ipynb)
 
 Learned Weights for single-layer MLP |  Learned Weights for Logistic Regression
 :-------------------------:|:-------------------------:
-<img src="https://cdn.pbrd.co/images/HW7Rvxt.png" width="400" height="200" />  |  <img src="https://cdn.pbrd.co/images/HW7T1Bh.png" width="400" height="250"/>
+<img src="https://lh3.googleusercontent.com/9BOiNcxVSfHBYKeGcXtor8cYX1kXS5sDOjWjVmO5K6-hSTkJoJxs5RuLm1BPtqariEqp06vTJd0_lwTfOpvviJ7UEaZKbPWC0PLQtj9cro0rcnK3EmcayazvWLOqx44d9McEXfq0BUs=w2400" width="400" height="200" />  |  <img src="https://lh3.googleusercontent.com/4fq__yAaFGKQwmsm0vBvykyjeYG4b52kE8emV3AHf8F2pXrpDe-XST-imZpk2teI07nWXTXIHCk4D3kEMCX5TerSCBZ4HcvG6aH9wLQ9eXHlwL-uGRCtsgszfn4y8JBEg2Xs-A5a-G0=w2400" width="400" height="250"/>
 
 
 #### Gaussian Processes and Support Vector Machines
 [Problem statement and Solution](part1/labs/11636785_11640758_lab3.ipynb)
 
 <p align="center">
-  <img src="https://cdn.pbrd.co/images/HW8yrBr.png" width="650" /><br />
+  <img src="https://lh3.googleusercontent.com/_KuyIzRygC4zvb2N7nYHJ-VZ8NeLEn9CiHNCUeZJonqnN1G0FVWbg2j9ROuV06M8yBfq62it9qtj5Ki4qR0Ns2K6RBIArRG8bJ_uSCiTOAEZwF-zB9dMPRgR_PjNAU3d2gqb2mTX-ug=w2400" width="650" /><br />
   <i>Gaussian Process Regression</i>
 </p>
 
 <p align="center">
-  <img src="https://cdn.pbrd.co/images/HW8AB1x.png" width="650" /><br />
+  <img src="https://lh3.googleusercontent.com/JItzvzjRypNz1jKBhjzKQY7ZPPHfJIW1GSsZqIyuYt5f23ITfLDJmGR21FjXNUmoLzRlzWFyZb_9t5-HOm7HZMCOSf_KQF_C4LXWJWaAGmath5Mv9ht3ISDEUUa_jrBQmjxcxSOJ6gg=w2400" width="650" /><br />
   <i>SVM Classification</i>
 </p>
 
@@ -64,13 +64,13 @@ Learned Weights for single-layer MLP |  Learned Weights for Logistic Regression
 
 Original Signals             |  Reconstructed Signals
 :-------------------------:|:-------------------------:
-<img src="https://cdn.pbrd.co/images/HWbfTgU.png" width="400" height="250"/>  |  <img src="https://cdn.pbrd.co/images/HWbfCOu.png" width="400" height="260"/>
+<img src="https://lh3.googleusercontent.com/7v0FhD6IUmJeXAXC7ecMrA3yQNrrWjOVM8P6_rpLj0ZFLDWhaSFP8_rpJtW_B7z2UIaprFF4oND1Oi2nz14qbmnmx8FoHde3R7yYvHlInLDJXVspF7C2Pw-9mZwBfJbaEqy6QQAa9HA=w2400" width="400" height="250"/>  |  <img src="https://lh3.googleusercontent.com/FPQQ70U1nJV8SA5o_Gt3dhGElk4CTW0RTuCGQUx9UA42oTAOa3pO5c_YaSTcLzfGYJ8_4EwFs32I93iU3ysVem9vNAyznzkyNlsoC6uFgcopic2efitYoOhF3AvY7WTsc55eacLya8M=w2400" width="400" height="260"/>
 
 #### Inference in Graphical Models
 [Problem statement and Solution](part2/labs/11636785_11640758_lab2.ipynb)
 
 <p align="center">
-  <img src="https://cdn.pbrd.co/images/HWbgUXb.png" width="1000" /><br />
+  <img src="https://lh3.googleusercontent.com/1mi_6k5EVxG_NtmXJO3TrWI67hzihD9SGraX9m-pasao3JIkYC3OhNbe9eorZlkjs2fwQTAPGZEKJFGNivPZKA8pOS8-p4SqnFBUzQ-00sr7yd-ctl5bqUoo6VCHDQzv0cPvZJQoBVE=w2400" width="300" /><br />
   <i>Factor Graph of Interest</i>
 </p>
 
@@ -78,7 +78,7 @@ Original Signals             |  Reconstructed Signals
 [Problem statement and Solution](part2/labs/11636785_11640758_lab3.ipynb)
 
 <p align="center">
-  <img src="https://cdn.pbrd.co/images/HWbhMk7.png" width="400" /><br />
+  <img src="https://lh3.googleusercontent.com/wtod_Qc-Yh5cpuUN-TqAn7f6puchTmqfBQpTw0x1CaSDciIG0Bl50wARhKTTQ-pP9moBPRCf_lQOXaVtGVKdoncSqsUIArRBVSxR7qLtM_So-4sOYtCRH5r_Tz_FJMqKsu52ZT28DyE=w2400" width="400" /><br />
   <i> Manifold Learned by VAE on MNIST</i>
 </p>
 
